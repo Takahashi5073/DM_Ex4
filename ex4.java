@@ -14,7 +14,9 @@ class DM_Ex4{
         System.out.println("Die 2:" +value2);
         System.out.println("Total Value:" +total);
 
-        
+        if(total > 7)
+        System.out.println("You won");
+        else System.out.println("You lost");
 
 
 
