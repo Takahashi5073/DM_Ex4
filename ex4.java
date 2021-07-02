@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-class ex4{
+class DM_Ex4{
     public static void main (String [] argc){
 
     //add_part
