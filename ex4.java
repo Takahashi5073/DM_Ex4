@@ -24,8 +24,8 @@ class DM_Ex4{
         System.out.println("Total Value:" +total);
 
         if(total > 7)
-        System.out.println("You won");
-        else System.out.println("You lost");
+        System.out.println(name+" won");
+        else System.out.println(name+" lost");
 
     }
 }
